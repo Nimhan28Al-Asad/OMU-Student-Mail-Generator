@@ -27,12 +27,12 @@ Lightweight and customizable Python script
 Input (file.txt):
 
 24572011, Deniz, Yılmaz
-22061095, Nimhan Soubaneh, Elmi
-22212808, Mohamed, Vall
+22212808, Nimhan Soubaneh, Elmi
+22856987, Mohamed, Vall
 
 
 Output:
 
 24572011, deniz.yilmaz@bil.omu.edu.tr
-22061095, soubaneh.elmi@bil.omu.edu.tr
-22212808, mohamed.vall@bil.omu.edu.tr
+22212808, soubaneh.elmi@bil.omu.edu.tr
+22856987, mohamed.vall@bil.omu.edu.tr
