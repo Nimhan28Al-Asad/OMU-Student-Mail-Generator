@@ -1,0 +1,17 @@
+24572011,Deniz,Yılmaz
+23110458,Aylin,Çelik
+24200987,Emre,Koç
+22033419,Zeynep,Demir
+23355670,Murat,Kaya
+24111822,Selin,Aksoy
+23500144,Ahmet,Taşcı
+22447733,İrem,Başaran
+24386550,Kerem,Özkan
+22669012,Elif,Güneş
+99120487,Maria,Fernandez
+99231576,John,Smith
+99367841,Aisha,Mohammed
+99450922,Luca,Bianchi
+99581203,Yuki,Tanaka
+22061095, Nimhan Soubaneh, Elmi
+22856987, mohamed, vall
