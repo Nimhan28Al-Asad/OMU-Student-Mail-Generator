@@ -5,7 +5,7 @@ OMU Student Mail Generator is a simple Python tool that automatically generates 
 
 It reads student data (ID, name, surname) from a text file, cleans Turkish characters using the unidecode library, and formats standardized email addresses following the pattern:
 
-name.surname@bil.omu.edu.tr
+name.surname@departement.omu.edu.tr
 
 
 For foreign students with multiple given names (e.g., Nimhan Soubaneh, Elmi), the generator automatically uses the last two parts to create a valid email like:
@@ -33,6 +33,6 @@ Input (file.txt):
 
 Output:
 
-24572011, deniz.yilmaz@bil.omu.edu.tr
-22212808, soubaneh.elmi@bil.omu.edu.tr
-22856987, mohamed.vall@bil.omu.edu.tr
+24572011, deniz.yilmaz@departement.omu.edu.tr
+22212808, soubaneh.elmi@departement.omu.edu.tr
+22856987, mohamed.vall@departement.omu.edu.tr
